@@ -53,7 +53,7 @@
 - [On-vs-off-chain governance](https://wiki.tezos.com/learn/governance/offchaingovernance)
 - [Future of the goverment process](https://wiki.tezosagora.org/learn/futuredevelopments/fdgovernance)
 
-## Liquid Proof of Stake]
+## Liquid Proof of Stake
 
 - [Intro](https://opentezos.com/baking)
 - [Next](https://opentezos.com/baking/baking_explained)
@@ -62,7 +62,7 @@
 - [LPOS algorithms](https://tezos.gitlab.io/active/consensus.html)
 - [Risks](https://opentezos.com/baking/risks/)
 
-## CameLigo
+## CameLigo / Smartpy
 
 - [TacoTezos](https://tacode.dev/courses/dev-starter)
 
